@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @fatmakaplan34
-- 👀 I’m interested in AI, Cyber Security and Graphic Design.
-- 🌱 I’m currently learning C++ and Python.
+- 👀 I’m interested in AI, Web Development and Graphic Design.
 - 📫 Here's my mail to reach whenever you want: "fatmakaplan2004@gmail.com"
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I like cats especially fluffy ones :)
