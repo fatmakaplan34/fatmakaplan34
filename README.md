@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @fatmakaplan34
-- 👀 I’m interested in AI, Web Development and Graphic Design.
+- 👀 I’m interested in tech and art.
 - 📫 Here's my mail to reach whenever you want: "fatmakaplan2004@gmail.com"
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I like cats especially fluffy ones :)
+- ⚡ I want to build something to make the life easier and better.
 
 <!---
 fatmakaplan34/fatmakaplan34 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
